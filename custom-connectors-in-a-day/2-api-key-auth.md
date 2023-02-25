@@ -39,7 +39,8 @@
 4. 아래 명령어를 통해 API 앱을 실행시킵니다.
 
     ```bash
-    pushd ./custom-connectors-in-a-day/src/ApiKeyAuthApp \
+    pushd ./custom-connectors-in-
+    a-day/src/ApiKeyAuthApp \
         && dotnet restore && dotnet build \
         && func start
     ```
